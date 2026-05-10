@@ -544,9 +544,9 @@ SOFTWARE.
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@ahmadXplore](https://github.com/ahmadXplore)
-- LinkedIn: [Ahmad](www.linkedin.com/in/muhammad-ahmad-23a3223a0)
-- Email: ahmadasif5022004@gmail.com
+- GitHub: [@UsmanDanial04](https://github.com/UsmanDanial04)
+- LinkedIn: [UsmanDanial](www.linkedin.com/in/usman-danial-b4568b289)
+- Email: usmandanial0@gmail.com
 
 ---
 
@@ -583,7 +583,7 @@ SOFTWARE.
 
 If you find this project helpful, please consider giving it a star! ⭐
 
-[![Star History](https://img.shields.io/github/stars/yourusername/jobverse?style=social)](https://github.com/ahmadXplore/Job-Listing-Web/stargazers)
+[![Star History](https://img.shields.io/github/stars/yourusername/jobverse?style=social)](https://github.com/UsmanDanial/Job-Listing-Website/stargazers)
 
 ---
 
