@@ -566,9 +566,9 @@ SOFTWARE.
 ### Getting Help
 
 - 📖 [Read the Documentation](#api-documentation)
-- 🐛 [Report a Bug](https://github.com/ahmadXplore/Job-Listing-Web/issues)
-- 💡 [Request a Feature](https://github.com/ahmadXplore/Job-Listing-Web/issues)
-- 💬 [Join Discussions](https://github.com/ahmadXplore/Job-Listing-Web/discussions)
+- 🐛 [Report a Bug](https://github.com/UsmanDanial04/Job-Listing-Website/issues)
+- 💡 [Request a Feature](https://github.com/UsmanDanial04/Job-Listing-Website/issues)
+- 💬 [Join Discussions](https://github.com/UsmanDanial04/Job-Listing-Website/discussions)
 
 ### Resources
 
