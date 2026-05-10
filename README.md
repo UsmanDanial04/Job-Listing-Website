@@ -79,8 +79,8 @@ Before you begin, ensure you have the following installed:
 #### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/ahmadXplore/Job-Listing-Web.git
-cd Job-Listing-Web
+git clone https://github.com/UsmanDanial04/Job-Listing-Web.git
+cd Job-Listing-Website
 ```
 
 #### 2️⃣ Set Up Backend
